@@ -20,7 +20,7 @@
     - Utilize a linguagem Markdown para formatar informações sobre o desafio, instruções e uma breve descrição
     do seu projeto.
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" width="300px" align="center" />
+<center><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" width="300px" /> </center>
           
 
 
